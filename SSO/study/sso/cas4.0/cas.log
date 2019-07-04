@@ -1,0 +1,294 @@
+2018-11-19 17:23:19,594 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-19 17:23:19,946 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-11-19 17:23:39,657 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-11-19 17:23:39,659 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-11-19 17:23:39,659 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-11-19 17:23:57,928 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /
+2018-11-19 17:23:57,928 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /
+2018-11-19 17:23:57,956 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-wfx0wc9kp2tvFRNglomo2jEzcWgm52HstQ0vdpXGImjfde2Qpf-sso.siwash.net
+ACTION: TICKET_GRANTING_TICKET_DESTROYED
+APPLICATION: CAS
+WHEN: Mon Nov 19 17:23:57 CST 2018
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2018-11-19 17:24:00,439 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - UserAuthenticationHandler successfully authenticated mrfox+password
+2018-11-19 17:24:00,440 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated mrfox with credentials [mrfox+password].
+2018-11-19 17:24:00,440 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [mrfox+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Mon Nov 19 17:24:00 CST 2018
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2018-11-19 17:24:00,442 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-leQtkUhArIyImiEhWzyUBpB6KlEAoMWeaa9YRmsuw216cBRQEn-sso.siwash.net
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Mon Nov 19 17:24:00 CST 2018
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2018-11-21 14:11:14,437 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:11:14,842 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-11-21 14:11:34,514 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-11-21 14:11:34,517 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-11-21 14:11:34,517 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-11-21 14:12:54,457 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:12:54,897 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-11-21 14:13:14,541 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-11-21 14:13:14,543 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-11-21 14:13:14,543 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-11-21 14:13:16,390 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /cas/
+2018-11-21 14:13:16,390 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /cas/
+2018-11-21 14:14:54,542 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:14:54,543 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:16:54,543 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:16:54,543 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:18:54,543 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:18:54,543 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:21:00,773 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:21:01,137 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-11-21 14:21:20,837 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-11-21 14:21:20,839 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-11-21 14:21:20,839 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-11-21 14:21:53,318 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /
+2018-11-21 14:21:53,318 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /
+2018-11-21 14:22:02,471 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - UserAuthenticationHandler successfully authenticated mrfox+password
+2018-11-21 14:22:02,472 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated mrfox with credentials [mrfox+password].
+2018-11-21 14:22:02,474 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [mrfox+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:22:02 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:22:02,476 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-NV0eCFrSENZmQf3hBkaLaQx2JjSsdV0w7DoAHfdVSC0afFVVGx-sso.siwash.net
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:22:02 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:22:02,478 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-V6RUp3NZu0cuPfcGTcbO-sso.siwash.net] for service [http://client.siwash.net:8081/cas] for user [mrfox]
+2018-11-21 14:22:02,478 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: mrfox
+WHAT: ST-1-V6RUp3NZu0cuPfcGTcbO-sso.siwash.net for http://client.siwash.net:8081/cas
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:22:02 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:22:03,155 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-2-zik4RUVxiBZJdtsGCZ6Y-sso.siwash.net] for service [http://client.siwash.net:8081/cas] for user [mrfox]
+2018-11-21 14:22:03,155 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: mrfox
+WHAT: ST-2-zik4RUVxiBZJdtsGCZ6Y-sso.siwash.net for http://client.siwash.net:8081/cas
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:22:03 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:23:00,834 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:23:00,835 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:24:21,173 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-3-B0qiNKob6Jwf7VlfiKj2-sso.siwash.net] for service [http://client.siwash.net:8081/cas] for user [mrfox]
+2018-11-21 14:24:21,174 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: mrfox
+WHAT: ST-3-B0qiNKob6Jwf7VlfiKj2-sso.siwash.net for http://client.siwash.net:8081/cas
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:24:21 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:24:21,448 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-4-Rr9v4msjG044ldBakSBy-sso.siwash.net] for service [http://client.siwash.net:8081/cas] for user [mrfox]
+2018-11-21 14:24:21,449 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: mrfox
+WHAT: ST-4-Rr9v4msjG044ldBakSBy-sso.siwash.net for http://client.siwash.net:8081/cas
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:24:21 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:24:28,610 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-5-OUAuPaeeylPp76a9gs6X-sso.siwash.net] for service [http://client.siwash.net:8081/cas] for user [mrfox]
+2018-11-21 14:24:28,610 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: mrfox
+WHAT: ST-5-OUAuPaeeylPp76a9gs6X-sso.siwash.net for http://client.siwash.net:8081/cas
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:24:28 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:25:00,829 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - UserAuthenticationHandler successfully authenticated mrfox+password
+2018-11-21 14:25:00,830 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated mrfox with credentials [mrfox+password].
+2018-11-21 14:25:00,830 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [mrfox+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:25:00 CST 2018
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2018-11-21 14:25:00,830 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-2-KC414rQ1bAN4TVsPZLtFSIDXtxlnFHlFTn0vBJ45JDq3nVC00G-sso.siwash.net
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:25:00 CST 2018
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2018-11-21 14:25:00,833 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:25:00,834 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:26:30,492 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - UserAuthenticationHandler successfully authenticated mrfox+password
+2018-11-21 14:26:30,493 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated mrfox with credentials [mrfox+password].
+2018-11-21 14:26:30,493 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [mrfox+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:26:30 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:26:30,493 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-3-2ag0htFYLmFMpSgbM2uovbazh6KQa74Jc6m4UcRzaSMbccAdKb-sso.siwash.net
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:26:30 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:27:00,834 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:27:00,835 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:29:00,834 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:29:00,835 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:29:39,664 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:29:40,052 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-11-21 14:29:59,733 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-11-21 14:29:59,735 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-11-21 14:29:59,735 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-11-21 14:31:37,559 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /
+2018-11-21 14:31:37,559 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /
+2018-11-21 14:31:37,591 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-3-2ag0htFYLmFMpSgbM2uovbazh6KQa74Jc6m4UcRzaSMbccAdKb-sso.siwash.net
+ACTION: TICKET_GRANTING_TICKET_DESTROYED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:31:37 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:31:39,751 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-11-21 14:31:39,752 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2018-11-21 14:31:42,554 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - UserAuthenticationHandler successfully authenticated mrfox+password
+2018-11-21 14:31:42,555 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated mrfox with credentials [mrfox+password].
+2018-11-21 14:31:42,555 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [mrfox+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:31:42 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:31:42,557 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-kwEE7HGueUpR60amBaZeaiXxnhUChzTakWBhjgU7z0d4IJMoUm-sso.siwash.net
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:31:42 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:31:42,559 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-PyBR044nj9PBWPzTBXI3-sso.siwash.net] for service [http://client.siwash.net:8082/] for user [mrfox]
+2018-11-21 14:31:42,559 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: mrfox
+WHAT: ST-1-PyBR044nj9PBWPzTBXI3-sso.siwash.net for http://client.siwash.net:8082/
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:31:42 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2018-11-21 14:31:43,121 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-2-pWOENfEFNyPUex0uxZIY-sso.siwash.net] for service [http://client.siwash.net:8082/favicon.ico] for user [mrfox]
+2018-11-21 14:31:43,121 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: mrfox
+WHAT: ST-2-pWOENfEFNyPUex0uxZIY-sso.siwash.net for http://client.siwash.net:8082/favicon.ico
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 21 14:31:43 CST 2018
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+

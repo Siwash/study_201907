@@ -1,0 +1,58 @@
+Performance Statistics   2018-11-19 17:23:00 - 2018-11-19 17:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+DESTROY_TICKET_GRANTING_TICKET                           3.0           3           3         0.0           1
+
+Performance Statistics   2018-11-21 14:13:00 - 2018-11-21 14:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:14:00 - 2018-11-21 14:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:15:00 - 2018-11-21 14:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:16:00 - 2018-11-21 14:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:17:00 - 2018-11-21 14:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:18:00 - 2018-11-21 14:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:22:00 - 2018-11-21 14:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                            72.0          72          72         0.0           1
+CREATE_TICKET_GRANTING_TICKET                           75.0          75          75         0.0           1
+GRANT_SERVICE_TICKET                                     1.5           1           2         0.5           2
+
+Performance Statistics   2018-11-21 14:23:00 - 2018-11-21 14:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:24:00 - 2018-11-21 14:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+GRANT_SERVICE_TICKET                                     0.3           0           1         0.5           3
+
+Performance Statistics   2018-11-21 14:25:00 - 2018-11-21 14:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                             6.0           6           6         0.0           1
+CREATE_TICKET_GRANTING_TICKET                            6.0           6           6         0.0           1
+
+Performance Statistics   2018-11-21 14:26:00 - 2018-11-21 14:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                             4.0           4           4         0.0           1
+CREATE_TICKET_GRANTING_TICKET                            5.0           5           5         0.0           1
+
+Performance Statistics   2018-11-21 14:27:00 - 2018-11-21 14:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:30:00 - 2018-11-21 14:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-11-21 14:31:00 - 2018-11-21 14:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                            55.0          55          55         0.0           1
+CREATE_TICKET_GRANTING_TICKET                           57.0          57          57         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           3.0           3           3         0.0           1
+GRANT_SERVICE_TICKET                                     1.5           1           2         0.5           2
+

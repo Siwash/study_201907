@@ -1,0 +1,26 @@
+准备工作：
+https://blog.csdn.net/huige_666/article/details/79640073
+云主机：148.70.70.143 Rpf@1996
+appid：
+wx0bfd2746dacb0499
+key：
+bde3cf3ece8cc6fd2a6afb67fea97eb2
+nginx重定向https:(/usr/local/webserver/nginx/sbin/nginx)
+server {
+  listen	  80;
+  server_name    my.domain.com;
+  return	  301 https://$server_name$request_uri;
+}
+
+server {
+  listen	  443 ssl;
+  server_name    my.domain.com;
+
+  [....]
+}
+
+1.让用户授权登陆小程序，在wx.login方法的success回调中获取一个code，有效时间5分钟，此code建议只调用并保存一次，此时让服务端回调小程序的API
+传入的参数必须包含code，反回参数获取session_key和openId，只要code不变，session_key和openid就一直有效，服务端获取到session_key后将openid
+返回到小程序中，此openid作为客户端的唯一标识，以后在做数据验证的时候，可以通过验证此openid的有效性来验证用户合法性
+
+
